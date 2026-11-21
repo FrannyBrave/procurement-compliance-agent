@@ -6,3 +6,4 @@ __pycache__/
 .DS_Store
 # per-run scratch output; curated runs are copied to results/
 runs/
+.claude/
