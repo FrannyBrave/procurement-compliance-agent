@@ -74,6 +74,10 @@ with st.sidebar:
     st.markdown("**Guardrails**\n- Read-only SQL (3 layers)\n- Every finding re-checked in code\n"
                 "- Low confidence → human review\n- Emails are drafts only")
 
+    # Demo and live sessions never share findings: switching modes starts a clean session.
+    if ss.get("demo_mode") != demo:
+        ss.run_state, ss.audit, ss.chat = RunState(), None, []
+        ss.demo_mode = demo
     if demo and ss.audit is None and (saved := load_json(config.RESULTS_DIR / "demo_audit.json")):
         ss.audit = saved
         adopt_findings(saved)
