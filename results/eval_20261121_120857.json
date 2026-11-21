@@ -1,0 +1,358 @@
+{
+  "created_at": "2026-11-21T12:00:01",
+  "audit": [
+    {
+      "run_id": "audit-20261121-120002-61ab",
+      "model": "claude-opus-5-5",
+      "effort": "medium",
+      "status": "completed",
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "true_positives": 26,
+      "false_positives": 0,
+      "missed": 0,
+      "usd_found": 74037.25,
+      "usd_planted": 74037.25,
+      "claimed_amount_errors": 0,
+      "cost_usd": 0.4715,
+      "tool_calls": 48,
+      "turns": 11,
+      "duration_s": 118.7,
+      "per_type": {
+        "price_above_contract": {
+          "planted": 7,
+          "found": 7,
+          "false_positives": 0,
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "off_contract": {
+          "planted": 5,
+          "found": 5,
+          "false_positives": 0,
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "expired_contract": {
+          "planted": 4,
+          "found": 4,
+          "false_positives": 0,
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "invoice_po_mismatch": {
+          "planted": 5,
+          "found": 5,
+          "false_positives": 0,
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "duplicate_invoice": {
+          "planted": 3,
+          "found": 3,
+          "false_positives": 0,
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "missed_rebate": {
+          "planted": 2,
+          "found": 2,
+          "false_positives": 0,
+          "precision": 1.0,
+          "recall": 1.0
+        }
+      },
+      "missed_issues": [],
+      "false_positive_findings": []
+    },
+    {
+      "run_id": "audit-20261121-120200-6418",
+      "model": "claude-opus-5-5",
+      "effort": "medium",
+      "status": "completed",
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "true_positives": 26,
+      "false_positives": 0,
+      "missed": 0,
+      "usd_found": 74037.25,
+      "usd_planted": 74037.25,
+      "claimed_amount_errors": 0,
+      "cost_usd": 0.429,
+      "tool_calls": 44,
+      "turns": 11,
+      "duration_s": 119.0,
+      "per_type": {
+        "price_above_contract": {
+          "planted": 7,
+          "found": 7,
+          "false_positives": 0,
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "off_contract": {
+          "planted": 5,
+          "found": 5,
+          "false_positives": 0,
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "expired_contract": {
+          "planted": 4,
+          "found": 4,
+          "false_positives": 0,
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "invoice_po_mismatch": {
+          "planted": 5,
+          "found": 5,
+          "false_positives": 0,
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "duplicate_invoice": {
+          "planted": 3,
+          "found": 3,
+          "false_positives": 0,
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "missed_rebate": {
+          "planted": 2,
+          "found": 2,
+          "false_positives": 0,
+          "precision": 1.0,
+          "recall": 1.0
+        }
+      },
+      "missed_issues": [],
+      "false_positive_findings": []
+    },
+    {
+      "run_id": "audit-20261121-120359-3985",
+      "model": "claude-opus-5-5",
+      "effort": "medium",
+      "status": "completed",
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "true_positives": 26,
+      "false_positives": 0,
+      "missed": 0,
+      "usd_found": 74037.25,
+      "usd_planted": 74037.25,
+      "claimed_amount_errors": 0,
+      "cost_usd": 0.4219,
+      "tool_calls": 49,
+      "turns": 11,
+      "duration_s": 114.1,
+      "per_type": {
+        "price_above_contract": {
+          "planted": 7,
+          "found": 7,
+          "false_positives": 0,
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "off_contract": {
+          "planted": 5,
+          "found": 5,
+          "false_positives": 0,
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "expired_contract": {
+          "planted": 4,
+          "found": 4,
+          "false_positives": 0,
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "invoice_po_mismatch": {
+          "planted": 5,
+          "found": 5,
+          "false_positives": 0,
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "duplicate_invoice": {
+          "planted": 3,
+          "found": 3,
+          "false_positives": 0,
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "missed_rebate": {
+          "planted": 2,
+          "found": 2,
+          "false_positives": 0,
+          "precision": 1.0,
+          "recall": 1.0
+        }
+      },
+      "missed_issues": [],
+      "false_positive_findings": []
+    }
+  ],
+  "qa": {
+    "accuracy": 1.0,
+    "n": 10,
+    "avg_cost_usd": 0.0739,
+    "avg_duration_s": 18.4,
+    "questions": [
+      {
+        "question": "Which supplier has the highest total PO spend this year, and how much?",
+        "expected": [
+          "Apex Industrial Metals",
+          486381.54
+        ],
+        "correct": true,
+        "cost_usd": 0.1118,
+        "tool_calls": 9,
+        "duration_s": 31.6,
+        "answer": "**Apex Industrial Metals (S01) has the highest PO spend this year: $486,381.54 across 39 POs** (2026-01-08 to 2026-09-25). That is close to twice the next supplier:\n\n| Rank | Supplier | POs | Total |\n|---|---|---|---|\n| 1 | S01 Apex Industrial Metals | 39 | $486,381.54 |\n| 2 | S02 Northline Polymers | 19 | $256,787.52 |\n| 3 | S05 Swift Freight Partners | 33 | $251,585.30 |\n\nAll of S01's POs are under contract C01. By quarter, S01 spend was $178,113.41 in Q1, $146,183.68 in Q2 and $162,084.45 in Q3. Its largest POs are PO-10032 and PO-10192 ($23,700 each) and PO-10037 ($20,145).\n\n**Compliance issues found along the way.** Three S01 POs are priced above the C01 contract, for $2,740.59 in overcharges. All three are recorded and verified:\n- **F-001, PO-10151:** cold-rolled steel sheet (DM-1010) at $1,279.80/ton against the contract's $1,185.00, 15 tons. Overcharge: $1,422.00.\n- **F-002, PO-10055:** stainless tube (DM-1031) at $24.62/ft against $22.80, 613 ft. Overcharge: $1,115.66.\n- **F-003, PO-10082:** the same stainless tube at $23.71/ft against $22.80, 223 ft. Overcharge: $202.93.\n\nC01 fixes prices for the whole term, and any change needs a written amendment. It also says invoices above the contract price get short-paid. Before these POs are paid, check that the invoices were paid at contract price.\n\n**Rebates on C01 are in order.** C01 pays a 2% rebate in any quarter where spend is over $150,000:\n- **Q1:** rebate earned, and it was credited ($3,562.27, CR-001).\n- **Q2:** spend was under the threshold, so no rebate was owed.\n- **Q3:** spend went over the threshold, so a rebate of about $3,240 is owed. That credit isn't due until 2026-10-30, so it's worth tracking."
+      },
+      {
+        "question": "What was total PO spend under contract C05 in Q3 2026?",
+        "expected": [
+          90250.0
+        ],
+        "correct": true,
+        "cost_usd": 0.0681,
+        "tool_calls": 4,
+        "duration_s": 16.4,
+        "answer": "Total PO spend under contract C05 (Swift Freight Partners, Logistics & Freight) in Q3 2026 (July 1 to September 30) was **$90,250.00**, across 11 POs.\n\n| PO | Date | Item | Qty \u00d7 Unit price | Amount |\n|---|---|---|---|---|\n| PO-10163 | 2026-07-07 | LOG-510 LTL pallet | 12 \u00d7 $145 | $1,740 |\n| PO-10166 | 2026-07-08 | LOG-501 FTL Chicago to Dallas | 5 \u00d7 $2,350 | $11,750 |\n| PO-10167 | 2026-07-11 | LOG-502 FTL Chicago to Atlanta | 6 \u00d7 $2,180 | $13,080 |\n| PO-10176 | 2026-07-23 | LOG-501 | 4 \u00d7 $2,350 | $9,400 |\n| PO-10193 | 2026-08-13 | LOG-502 | 6 \u00d7 $2,180 | $13,080 |\n| PO-10194 | 2026-08-13 | LOG-510 | 25 \u00d7 $145 | $3,625 |\n| PO-10198 | 2026-08-15 | LOG-510 | 23 \u00d7 $145 | $3,335 |\n| PO-10207 | 2026-08-25 | LOG-502 | 5 \u00d7 $2,180 | $10,900 |\n| PO-10221 | 2026-09-06 | LOG-510 | 36 \u00d7 $145 | $5,220 |\n| PO-10222 | 2026-09-08 | LOG-502 | 4 \u00d7 $2,180 | $8,720 |\n| PO-10225 | 2026-09-13 | LOG-501 | 4 \u00d7 $2,350 | $9,400 |\n\nBy month: July $35,970, August $30,940, September $23,340.\n\n**No compliance issues found, so I recorded no findings:**\n- **Prices:** Every PO matches the C05 contract price ($2,350, $2,180 and $145).\n- **Contract term:** All POs fall within the contract term (2025-04-01 to 2027-03-31).\n- **Invoices:** None of the invoices for these POs differ from their PO in quantity or unit price, and none are duplicates.\n- **Rebates:** C05 has no volume rebate.\n\nThe contract does not renew automatically and ends 2027-03-31."
+      },
+      {
+        "question": "How much have we spent on Professional Services, and is any of it under contract?",
+        "expected": [
+          249425.0
+        ],
+        "correct": true,
+        "cost_usd": 0.0742,
+        "tool_calls": 6,
+        "duration_s": 20.2,
+        "answer": "**We've spent $249,425.00 on Professional Services this year (20 POs), and none of it is under contract.** None of the 10 contracts cover Professional Services, and none of these POs reference a contract.\n\n| Supplier | POs | PO amount | Invoiced | Dates |\n|---|---|---|---|---|\n| S13 Summit Strategy Consulting | 10 | $138,600.00 | $138,600.00 | 2026-01-29 to 2026-08-29 |\n| S14 Ledger & Pine Advisory | 10 | $110,825.00 | $112,200.00 | 2026-03-29 to 2026-09-12 |\n| **Total** | **20** | **$249,425.00** | **$250,800.00** | |\n\n- S13 POs: PO-10026, 10030, 10039, 10044, 10061, 10062, 10064, 10074, 10147, 10211\n- S14 POs: PO-10076, 10106, 10109, 10126, 10127, 10158, 10173, 10175, 10200, 10224\n\n**Not a compliance issue:** Under our rules, this only counts as off-contract spend if another supplier holds an active contract for the category. Nobody does, so these 20 POs aren't flagged. Still, $249K a year split between two consulting firms with no agreed rates is a good case for a contract or rate card.\n\n**One issue found and recorded (F-001, verified):** Ledger & Pine overbilled on INV-500158. PO-10158 was for 46 units at $275.00 ($12,650.00), but the invoice bills 51 units ($14,025.00). That's **$1,375.00** over, and it's the whole gap between invoiced and PO totals above. Hold or short-pay that invoice until they issue a corrected one or a credit. I can draft an email to the supplier if you'd like."
+      },
+      {
+        "question": "How many invoices has Keystone MRO Supply sent us?",
+        "expected": [
+          29
+        ],
+        "correct": true,
+        "cost_usd": 0.1104,
+        "tool_calls": 8,
+        "duration_s": 26.4,
+        "answer": "Keystone MRO Supply (supplier S03) has sent us **29 invoices** between 2026-01-19 and 2026-09-22, totaling **$37,486.56**. Two of those are duplicates, so they cover only **27 separate POs**.\n\nAll 29 invoices are under contract C03, and each one matches its PO on quantity and unit price. Going through them turned up four problems, which I've recorded as findings. All four were checked against the data and confirmed.\n\n**Duplicate invoices: $2,595.60 at risk**\n- **F-001:** INV-500065 (2026-04-07) and INV-500220 (2026-04-10) both bill PO-10065 for $837.20.\n- **F-002:** INV-500188 (2026-08-31) and INV-500218 (2026-09-01) both bill PO-10188 for $1,758.40.\n\n**PO prices above the C03 contract: $288.51 at risk**\nThe contract fixes prices for its full term and says any change needs a signed written amendment.\n- **F-003:** PO-10090 buys 15 \u00d7 MRO-207 at $70.95, against a contract price of $64.50. That's $96.75 over. Invoice INV-500090 billed the same higher price.\n- **F-004:** PO-10107 buys 204 \u00d7 MRO-311 at $8.79, against a contract price of $7.85. That's $191.76 over. Invoice INV-500107 billed the same higher price.\n\nAltogether, **$2,884.11** is at risk on Keystone invoices. If either duplicate has already been paid, ask Keystone for a refund or credit. Also confirm whether any written amendment allowed the two price increases. C03 has no volume rebate, so no rebate is owed."
+      },
+      {
+        "question": "Which single PO has the largest amount?",
+        "expected": [
+          "PO-10032",
+          23700.0
+        ],
+        "correct": true,
+        "cost_usd": 0.0522,
+        "tool_calls": 4,
+        "duration_s": 11.7,
+        "answer": "**No single PO is largest. Two POs tie at $23,700.00:**\n\n| PO | Date | Supplier | Item | Qty \u00d7 Unit price | Amount | Requester / BU |\n|---|---|---|---|---|---|---|\n| PO-10032 | 2026-02-07 | S01 Apex Industrial Metals | DM-1010 Cold-rolled steel sheet, 16 gauge | 20 \u00d7 $1,185.00 | $23,700.00 | R. Okafor / Plant A |\n| PO-10192 | 2026-08-12 | S01 Apex Industrial Metals | DM-1010 Cold-rolled steel sheet, 16 gauge | 20 \u00d7 $1,185.00 | $23,700.00 | M. Chen / Plant A |\n\nThe next largest is PO-10098 (Northline Polymers, HDPE resin) at $22,392.96.\n\n**Neither PO has a compliance issue, so I recorded no findings:**\n- **Price:** Both POs are priced at $1,185.00 per ton, which is the contract C01 price for DM-1010.\n- **Contract dates:** Both PO dates fall within C01's term (2025-07-01 to 2027-06-30).\n- **Invoices:** Each PO has one invoice that matches it exactly on quantity, price and amount: INV-500032 (2026-02-28) and INV-500192 (2026-09-05).\n\nThe POs are for the same quantity of the same item, but they are six months apart, were raised by different requesters and each has its own invoice. That looks like normal repeat ordering, not a duplicate."
+      },
+      {
+        "question": "What is the contracted unit price for item MRO-311?",
+        "expected": [
+          7.85
+        ],
+        "correct": true,
+        "cost_usd": 0.0657,
+        "tool_calls": 6,
+        "duration_s": 17.5,
+        "answer": "The contracted price for MRO-311 (Ball bearing 6205-2RS) is **$7.85 each**. It comes from contract **C03** with Keystone MRO Supply (S03), which runs from 2025-01-01 to 2027-12-31. The contract says prices are fixed for the whole term and can only change through a written amendment signed by the Procurement Director. MRO-311 is not listed in the other MRO contract, C08 (Ironclad Safety Products).\n\n**Compliance issue found:** I checked every PO for MRO-311 against that price. Nine of the ten are at $7.85: PO-10002, PO-10058, PO-10084, PO-10095, PO-10137, PO-10156, PO-10188, PO-10206 and PO-10220. The tenth, **PO-10107**, is priced at **$8.79 each** for 204 units. That is **$191.76** over the contract price (204 \u00d7 $0.94). I recorded it as finding **F-001**, and the check confirmed the amount.\n\nC03 says invoices above the contracted price get short-paid down to that price. The buyer should make sure payment on PO-10107 is limited to $7.85 per unit, or ask Keystone for a $191.76 credit. I haven't checked the invoice for this PO."
+      },
+      {
+        "question": "When does the Brightway Facility Services contract expire?",
+        "expected": [
+          "2026-06-30|June 30, 2026"
+        ],
+        "correct": true,
+        "cost_usd": 0.0882,
+        "tool_calls": 8,
+        "duration_s": 19.9,
+        "answer": "The Brightway Facility Services contract (C04) already expired on **June 30, 2026**, three months before the audit date of 2026-09-30. It ran from July 1, 2024. Section 1 of the contract says renewal is not automatic and any extension had to be signed by both parties before that date. No extension is on file.\n\n**Compliance issue:** We kept raising purchase orders under C04 after it expired. I found 4 of them, worth **$31,950** in total. All 4 are recorded and verified:\n\n| Finding | PO | PO date | Item | Amount |\n|---|---|---|---|---|\n| F-001 | PO-10162 | 2026-07-06 | FAC-100 janitorial (monthly) | $9,400 |\n| F-002 | PO-10186 | 2026-08-03 | FAC-100 janitorial (monthly) | $9,400 |\n| F-003 | PO-10202 | 2026-08-19 | FAC-110 HVAC maintenance, 3 visits | $3,750 |\n| F-004 | PO-10217 | 2026-09-02 | FAC-100 janitorial (monthly) | $9,400 |\n\nAll 4 POs were at the old contract prices ($9,400 per month and $1,250 per visit). So the risk isn't overbilling. The risk is that this spend has no contract behind it: the prices are no longer locked in and the other contract protections no longer apply. The 9 Brightway POs dated before July 1, 2026 were within the contract term.\n\n**Next steps:** Brightway is still doing both services, so the contract needs to be renewed or put out to bid. Until that's done, new POs shouldn't reference C04."
+      },
+      {
+        "question": "What are the payment terms in contract C07?",
+        "expected": [
+          60
+        ],
+        "correct": true,
+        "cost_usd": 0.0322,
+        "tool_calls": 2,
+        "duration_s": 7.1,
+        "answer": "Contract C07 with CloudPeak Software (IT & Software) has **net 60** payment terms. Payment is due 60 days after Granite Ridge receives a correct invoice (Section 3).\n\nA few related conditions in the contract:\n- **What counts as a correct invoice:** it must reference a valid Granite Ridge PO number, and it can't exceed the PO's quantity or price (Section 3).\n- **Overbilling:** if an invoice is above the contract unit price, it gets short-paid down to that price (Section 2). The contract prices are IT-701 ERP user license at $85.00 per seat per month and IT-705 Premium support at $1,800.00 per month. These prices are fixed for the whole term and don't include sales tax.\n- **No early-payment discount and no volume rebate** (Section 4).\n- **Term:** 2025-02-01 to 2028-01-31, so it's active as of the audit date. It doesn't renew automatically.\n\nI only read the contract and didn't check C07's POs or invoices, so I haven't recorded any findings. If you want, I can check C07 invoices against these terms next."
+      },
+      {
+        "question": "What rebate percentage and quarterly threshold does contract C01 have?",
+        "expected": [
+          2,
+          150000
+        ],
+        "correct": true,
+        "cost_usd": 0.0451,
+        "tool_calls": 3,
+        "duration_s": 10.1,
+        "answer": "Contract C01 (Apex Industrial Metals, supplier S01) pays a **2% rebate** on the quarter's total purchases, but only when that quarter's purchases are **more than $150,000**. Apex must issue the credit within 30 days after the quarter ends. This comes from the contract's rebate clause.\n\nI also checked C01's 2026 rebates against the PO data. None are missed, so I recorded no findings.\n\n| Quarter | Purchases on C01 POs | Rebate earned? | Status |\n|---|---|---|---|\n| 2026 Q1 | $178,113.41 (12 POs) | Yes: $3,562.27 | Credited in full by credit CR-001 on 2026-04-15 |\n| 2026 Q2 | $146,183.68 (13 POs) | No: below $150,000 | None owed |\n| 2026 Q3 | $162,084.45 (14 POs) | Yes: $3,241.69 | Not overdue: credit due by 2026-10-30, after today's audit date |\n\nTo act on: check that Apex issues the $3,241.69 credit for Q3 by **October 30, 2026**.\n\nThese totals add up the C01 PO amounts by PO date. I didn't measure purchases from invoices instead."
+      },
+      {
+        "question": "What were Northline Polymers' purchases under C02 in Q2 2026, and did they earn a rebate?",
+        "expected": [
+          93591.36
+        ],
+        "correct": true,
+        "cost_usd": 0.0911,
+        "tool_calls": 7,
+        "duration_s": 22.8,
+        "answer": "Yes. Northline Polymers (S02) earned a **$2,807.74 rebate** under C02 for Q2 2026, and it hasn't been paid. Q2 purchases came to **$93,591.36**, well over the contract's $60,000 quarterly threshold. The contract pays 3% of the quarter's purchases, and the credit was due by **2026-07-30**. There is no credit from Northline on any contract in the records, so it is two months overdue.\n\n**Q2 2026 purchase orders under C02**\n| PO | Date | Item | Qty | Unit price | Amount |\n|---|---|---|---|---|---|\n| PO-10098 | 2026-04-24 | DM-2001 HDPE resin pellets | 11,663 kg | $1.92 | $22,392.96 |\n| PO-10100 | 2026-04-26 | DM-2001 | 7,874 kg | $1.92 | $15,118.08 |\n| PO-10102 | 2026-05-04 | DM-2001 | 9,398 kg | $1.92 | $18,044.16 |\n| PO-10111 | 2026-05-14 | DM-2014 polycarbonate sheet | 49 sheets | $168.00 | $8,232.00 |\n| PO-10138 | 2026-06-07 | DM-2001 | 5,558 kg | $1.92 | $10,671.36 |\n| PO-10142 | 2026-06-13 | DM-2001 | 9,965 kg | $1.92 | $19,132.80 |\n| **Total** | | | | | **$93,591.36** |\n\nEvery PO is at the contract price. I used PO amounts to calculate the rebate.\n\n**Two issues recorded (both confirmed by the verification check):**\n1. **F-001, unpaid rebate, $2,807.74 (C02:2026Q2):** Ask Northline for the Q2 rebate credit.\n2. **F-002, overbilled invoice, $555.80 (INV-500138):** Northline billed PO-10138 at $2.02/kg instead of the PO and contract price of $1.92/kg, for 5,558 kg. That's $11,227.16 instead of $10,671.36. The contract says to pay only the contract price on overpriced invoices, so check whether this one was paid in full. If it was, recover the $555.80.\n\nAll other Q2 invoices match their POs exactly. Northline owes $3,363.54 in total for Q2. I can draft supplier emails for either issue if you want them."
+      }
+    ]
+  },
+  "audit_summary": {
+    "precision": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0
+    },
+    "recall": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0
+    },
+    "f1": {
+      "mean": 1.0,
+      "min": 1.0,
+      "max": 1.0
+    },
+    "usd_found": {
+      "mean": 74037.25,
+      "min": 74037.25,
+      "max": 74037.25
+    },
+    "cost_usd": {
+      "mean": 0.4408,
+      "min": 0.4219,
+      "max": 0.4715
+    },
+    "tool_calls": {
+      "mean": 47,
+      "min": 44,
+      "max": 49
+    },
+    "duration_s": {
+      "mean": 117.2667,
+      "min": 114.1,
+      "max": 119.0
+    }
+  }
+}
