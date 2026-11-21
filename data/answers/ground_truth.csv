@@ -1,0 +1,27 @@
+issue_id,issue_type,supplier_id,contract_id,record_ids,impact_usd,description
+GT-001,price_above_contract,S01,C01,PO-10151,1422.0,DM-1010 billed at $1279.80 vs contract $1185.00 x 15
+GT-002,price_above_contract,S03,C03,PO-10090,96.75,MRO-207 billed at $70.95 vs contract $64.50 x 15
+GT-003,price_above_contract,S01,C01,PO-10082,202.93,DM-1031 billed at $23.71 vs contract $22.80 x 223
+GT-004,price_above_contract,S03,C03,PO-10107,191.76,MRO-311 billed at $8.79 vs contract $7.85 x 204
+GT-005,price_above_contract,S01,C01,PO-10055,1115.66,DM-1031 billed at $24.62 vs contract $22.80 x 613
+GT-006,price_above_contract,S05,C05,PO-10041,165.3,LOG-510 billed at $153.70 vs contract $145.00 x 19
+GT-007,price_above_contract,S08,C08,PO-10016,49.59,MRO-812 billed at $22.62 vs contract $21.75 x 57
+GT-008,off_contract,S11,C03,PO-10146,967.2,Ball bearing 6205-2RS (web order) bought from non-contracted QuickParts Online; category covered by C03
+GT-009,off_contract,S11,C03,PO-10165,794.47,"Nitrile gloves, box of 100 (web order) bought from non-contracted QuickParts Online; category covered by C03"
+GT-010,off_contract,S12,C05,PO-10110,3150.0,"Expedited LTL pallet, regional bought from non-contracted Metro Courier Express; category covered by C05"
+GT-011,off_contract,S12,C05,PO-10050,3150.0,"Expedited LTL pallet, regional bought from non-contracted Metro Courier Express; category covered by C05"
+GT-012,off_contract,S15,C09,PO-10177,9594.0,"Business laptop, 14 in, 32GB (retail) bought from non-contracted TechMart Retail; category covered by C09"
+GT-013,expired_contract,S04,C04,PO-10162,9400.0,"PO dated 2026-07-06 references C04, which expired 2026-06-30"
+GT-014,expired_contract,S04,C04,PO-10186,9400.0,"PO dated 2026-08-03 references C04, which expired 2026-06-30"
+GT-015,expired_contract,S04,C04,PO-10202,3750.0,"PO dated 2026-08-19 references C04, which expired 2026-06-30"
+GT-016,expired_contract,S04,C04,PO-10217,9400.0,"PO dated 2026-09-02 references C04, which expired 2026-06-30"
+GT-017,invoice_po_mismatch,S02,,INV-500028,676.9,INV-500028 vs PO-10028: unit price 5% above PO
+GT-018,invoice_po_mismatch,S14,,INV-500158,1375.0,INV-500158 vs PO-10158: quantity above PO
+GT-019,invoice_po_mismatch,S02,,INV-500138,555.8,INV-500138 vs PO-10138: unit price 5% above PO
+GT-020,invoice_po_mismatch,S05,,INV-500059,2180.0,INV-500059 vs PO-10059: quantity above PO
+GT-021,invoice_po_mismatch,S09,,INV-500042,332.35,INV-500042 vs PO-10042: unit price 5% above PO
+GT-022,duplicate_invoice,S03,,INV-500218;INV-500188,1758.4,INV-500218 duplicates INV-500188 for PO-10188
+GT-023,duplicate_invoice,S01,,INV-500219;INV-500135,8778.0,INV-500219 duplicates INV-500135 for PO-10135
+GT-024,duplicate_invoice,S03,,INV-500220;INV-500065,837.2,INV-500220 duplicates INV-500065 for PO-10065
+GT-025,missed_rebate,S02,C02,C02:2026Q1,1886.2,"2026Q1 spend $62,873.28 passed the $60,000 threshold; 3.0% rebate not credited"
+GT-026,missed_rebate,S02,C02,C02:2026Q2,2807.74,"2026Q2 spend $93,591.36 passed the $60,000 threshold; 3.0% rebate not credited"

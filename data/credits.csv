@@ -1,0 +1,3 @@
+credit_id,supplier_id,contract_id,credit_date,amount,reason
+CR-001,S01,C01,2026-04-15,3562.27,Volume rebate 2026Q1
+CR-002,S03,C03,2026-05-14,212.4,Damaged goods return

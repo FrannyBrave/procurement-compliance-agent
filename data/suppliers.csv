@@ -1,0 +1,16 @@
+supplier_id,name,category,country
+S01,Apex Industrial Metals,Direct Materials,US
+S02,Northline Polymers,Direct Materials,US
+S03,Keystone MRO Supply,MRO,US
+S04,Brightway Facility Services,Facilities,US
+S05,Swift Freight Partners,Logistics & Freight,US
+S06,Harbor Logistics Group,Logistics & Freight,US
+S07,CloudPeak Software,IT & Software,US
+S08,Ironclad Safety Products,MRO,US
+S09,Meridian IT Hardware,IT & Software,US
+S10,Precision Tooling Co,Direct Materials,MX
+S11,QuickParts Online,MRO,US
+S12,Metro Courier Express,Logistics & Freight,US
+S13,Summit Strategy Consulting,Professional Services,US
+S14,Ledger & Pine Advisory,Professional Services,US
+S15,TechMart Retail,IT & Software,US

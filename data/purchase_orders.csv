@@ -1,0 +1,236 @@
+po_id,po_date,supplier_id,category,item_code,description,quantity,unit_price,amount,contract_id,requester,business_unit
+PO-10001,2026-01-01,S07,IT & Software,IT-705,"Premium support add-on, monthly",1,1800.0,1800.0,C07,A. Haddad,Corporate
+PO-10002,2026-01-02,S03,MRO,MRO-311,Ball bearing 6205-2RS,62,7.85,486.7,C03,L. Novak,Corporate
+PO-10003,2026-01-02,S03,MRO,MRO-207,"Hydraulic oil ISO 46, 5 gal",22,64.5,1419.0,C03,J. Alvarez,Plant B
+PO-10004,2026-01-03,S05,Logistics & Freight,LOG-502,"FTL dry van, Chicago to Atlanta",4,2180.0,8720.0,C05,L. Novak,Distribution
+PO-10005,2026-01-03,S09,IT & Software,IT-905,27 in monitor,12,289.0,3468.0,C09,R. Okafor,Plant B
+PO-10006,2026-01-04,S09,IT & Software,IT-905,27 in monitor,22,289.0,6358.0,C09,M. Chen,Plant B
+PO-10007,2026-01-07,S10,Direct Materials,DM-3005,"Carbide end mill, 1/2 in, 4 flute",37,48.5,1794.5,C10,L. Novak,Plant B
+PO-10008,2026-01-08,S01,Direct Materials,DM-1010,"Cold-rolled steel sheet, 16 gauge",16,1185.0,18960.0,C01,L. Novak,Plant A
+PO-10009,2026-01-10,S03,MRO,MRO-207,"Hydraulic oil ISO 46, 5 gal",12,64.5,774.0,C03,J. Alvarez,Plant A
+PO-10010,2026-01-10,S05,Logistics & Freight,LOG-510,"LTL pallet, regional",31,145.0,4495.0,C05,S. Patel,Distribution
+PO-10011,2026-01-10,S08,MRO,MRO-801,"Safety glasses, anti-fog",213,4.6,979.8,C08,S. Patel,Plant B
+PO-10012,2026-01-12,S04,Facilities,FAC-110,HVAC preventive maintenance visit,2,1250.0,2500.0,C04,A. Haddad,Plant B
+PO-10013,2026-01-14,S01,Direct Materials,DM-1031,"Stainless tube 304, 1.5 in",216,22.8,4924.8,C01,J. Alvarez,Plant A
+PO-10014,2026-01-15,S10,Direct Materials,DM-3012,"CNC fixture plate, machined",9,620.0,5580.0,C10,J. Alvarez,Plant A
+PO-10015,2026-01-19,S06,Logistics & Freight,LOG-610,"Drayage, Long Beach port to DC",1,640.0,640.0,C06,J. Alvarez,Corporate
+PO-10016,2026-01-22,S08,MRO,MRO-812,"Hard hat, Type I Class E",57,22.62,1289.34,C08,R. Okafor,Corporate
+PO-10017,2026-01-23,S02,Direct Materials,DM-2001,HDPE resin pellets,6553,1.92,12581.76,C02,S. Patel,Distribution
+PO-10018,2026-01-23,S05,Logistics & Freight,LOG-502,"FTL dry van, Chicago to Atlanta",4,2180.0,8720.0,C05,L. Novak,Plant B
+PO-10019,2026-01-23,S08,MRO,MRO-820,"Hi-vis vest, ANSI Class 2",175,8.9,1557.5,C08,S. Patel,Plant A
+PO-10020,2026-01-24,S01,Direct Materials,DM-1010,"Cold-rolled steel sheet, 16 gauge",12,1185.0,14220.0,C01,M. Chen,Plant B
+PO-10021,2026-01-24,S01,Direct Materials,DM-1010,"Cold-rolled steel sheet, 16 gauge",9,1185.0,10665.0,C01,T. Brooks,Plant A
+PO-10022,2026-01-27,S09,IT & Software,IT-905,27 in monitor,9,289.0,2601.0,C09,J. Alvarez,Plant A
+PO-10023,2026-01-28,S04,Facilities,FAC-100,"Janitorial service, Plant A (monthly)",1,9400.0,9400.0,C04,M. Chen,Plant B
+PO-10024,2026-01-28,S05,Logistics & Freight,LOG-510,"LTL pallet, regional",13,145.0,1885.0,C05,T. Brooks,Distribution
+PO-10025,2026-01-29,S02,Direct Materials,DM-2014,"Polycarbonate sheet 4x8, 1/4 in",53,168.0,8904.0,C02,S. Patel,Plant A
+PO-10026,2026-01-29,S13,Professional Services,PS-100,"Strategy workshop, daily rate",3,4200.0,12600.0,,R. Okafor,Distribution
+PO-10027,2026-02-01,S02,Direct Materials,DM-2001,HDPE resin pellets,4581,1.92,8795.52,C02,T. Brooks,Plant A
+PO-10028,2026-02-03,S02,Direct Materials,DM-2001,HDPE resin pellets,6769,1.92,12996.48,C02,J. Alvarez,Plant B
+PO-10029,2026-02-04,S08,MRO,MRO-801,"Safety glasses, anti-fog",198,4.6,910.8,C08,R. Okafor,Plant A
+PO-10030,2026-02-05,S13,Professional Services,PS-100,"Strategy workshop, daily rate",2,4200.0,8400.0,,T. Brooks,Distribution
+PO-10031,2026-02-06,S06,Logistics & Freight,LOG-610,"Drayage, Long Beach port to DC",1,640.0,640.0,C06,R. Okafor,Corporate
+PO-10032,2026-02-07,S01,Direct Materials,DM-1010,"Cold-rolled steel sheet, 16 gauge",20,1185.0,23700.0,C01,R. Okafor,Plant A
+PO-10033,2026-02-10,S05,Logistics & Freight,LOG-502,"FTL dry van, Chicago to Atlanta",3,2180.0,6540.0,C05,S. Patel,Distribution
+PO-10034,2026-02-10,S10,Direct Materials,DM-3005,"Carbide end mill, 1/2 in, 4 flute",55,48.5,2667.5,C10,J. Alvarez,Corporate
+PO-10035,2026-02-12,S07,IT & Software,IT-705,"Premium support add-on, monthly",1,1800.0,1800.0,C07,T. Brooks,Plant B
+PO-10036,2026-02-14,S03,MRO,MRO-114,"Nitrile gloves, box of 100",124,11.4,1413.6,C03,L. Novak,Distribution
+PO-10037,2026-02-15,S01,Direct Materials,DM-1010,"Cold-rolled steel sheet, 16 gauge",17,1185.0,20145.0,C01,R. Okafor,Plant A
+PO-10038,2026-02-15,S08,MRO,MRO-820,"Hi-vis vest, ANSI Class 2",119,8.9,1059.1,C08,R. Okafor,Distribution
+PO-10039,2026-02-16,S13,Professional Services,PS-100,"Strategy workshop, daily rate",4,4200.0,16800.0,,J. Alvarez,Plant A
+PO-10040,2026-02-19,S03,MRO,MRO-114,"Nitrile gloves, box of 100",71,11.4,809.4,C03,L. Novak,Plant A
+PO-10041,2026-02-19,S05,Logistics & Freight,LOG-510,"LTL pallet, regional",19,153.7,2920.3,C05,S. Patel,Plant A
+PO-10042,2026-02-20,S09,IT & Software,IT-905,27 in monitor,23,289.0,6647.0,C09,R. Okafor,Corporate
+PO-10043,2026-02-21,S01,Direct Materials,DM-1031,"Stainless tube 304, 1.5 in",559,22.8,12745.2,C01,L. Novak,Corporate
+PO-10044,2026-02-21,S13,Professional Services,PS-100,"Strategy workshop, daily rate",4,4200.0,16800.0,,J. Alvarez,Corporate
+PO-10045,2026-02-22,S03,MRO,MRO-114,"Nitrile gloves, box of 100",150,11.4,1710.0,C03,M. Chen,Corporate
+PO-10046,2026-02-22,S04,Facilities,FAC-100,"Janitorial service, Plant A (monthly)",1,9400.0,9400.0,C04,S. Patel,Distribution
+PO-10047,2026-02-22,S05,Logistics & Freight,LOG-502,"FTL dry van, Chicago to Atlanta",5,2180.0,10900.0,C05,T. Brooks,Plant B
+PO-10048,2026-02-23,S01,Direct Materials,DM-1010,"Cold-rolled steel sheet, 16 gauge",14,1185.0,16590.0,C01,R. Okafor,Distribution
+PO-10049,2026-02-24,S08,MRO,MRO-812,"Hard hat, Type I Class E",55,21.75,1196.25,C08,R. Okafor,Distribution
+PO-10050,2026-02-28,S12,Logistics & Freight,MC-200,"Expedited LTL pallet, regional",15,210.0,3150.0,,J. Alvarez,Plant B
+PO-10051,2026-03-04,S01,Direct Materials,DM-1022,"Aluminum bar stock 6061, 2 in",767,14.25,10929.75,C01,A. Haddad,Distribution
+PO-10052,2026-03-04,S01,Direct Materials,DM-1031,"Stainless tube 304, 1.5 in",698,22.8,15914.4,C01,S. Patel,Plant A
+PO-10053,2026-03-06,S05,Logistics & Freight,LOG-510,"LTL pallet, regional",31,145.0,4495.0,C05,J. Alvarez,Distribution
+PO-10054,2026-03-07,S08,MRO,MRO-801,"Safety glasses, anti-fog",347,4.6,1596.2,C08,R. Okafor,Distribution
+PO-10055,2026-03-09,S01,Direct Materials,DM-1031,"Stainless tube 304, 1.5 in",613,24.62,15092.06,C01,J. Alvarez,Corporate
+PO-10056,2026-03-10,S01,Direct Materials,DM-1031,"Stainless tube 304, 1.5 in",624,22.8,14227.2,C01,T. Brooks,Distribution
+PO-10057,2026-03-11,S03,MRO,MRO-415,V-belt B48,58,18.2,1055.6,C03,J. Alvarez,Plant A
+PO-10058,2026-03-13,S03,MRO,MRO-311,Ball bearing 6205-2RS,83,7.85,651.55,C03,T. Brooks,Distribution
+PO-10059,2026-03-15,S05,Logistics & Freight,LOG-502,"FTL dry van, Chicago to Atlanta",3,2180.0,6540.0,C05,L. Novak,Corporate
+PO-10060,2026-03-15,S06,Logistics & Freight,LOG-601,"Ocean container 40ft, Shanghai to Long Beach",2,3900.0,7800.0,C06,R. Okafor,Corporate
+PO-10061,2026-03-15,S13,Professional Services,PS-100,"Strategy workshop, daily rate",4,4200.0,16800.0,,A. Haddad,Plant B
+PO-10062,2026-03-16,S13,Professional Services,PS-100,"Strategy workshop, daily rate",2,4200.0,8400.0,,L. Novak,Corporate
+PO-10063,2026-03-17,S02,Direct Materials,DM-2001,HDPE resin pellets,5949,1.92,11422.08,C02,R. Okafor,Corporate
+PO-10064,2026-03-19,S13,Professional Services,PS-100,"Strategy workshop, daily rate",4,4200.0,16800.0,,J. Alvarez,Plant B
+PO-10065,2026-03-20,S03,MRO,MRO-415,V-belt B48,46,18.2,837.2,C03,J. Alvarez,Plant A
+PO-10066,2026-03-22,S03,MRO,MRO-207,"Hydraulic oil ISO 46, 5 gal",28,64.5,1806.0,C03,R. Okafor,Plant B
+PO-10067,2026-03-22,S05,Logistics & Freight,LOG-510,"LTL pallet, regional",30,145.0,4350.0,C05,L. Novak,Distribution
+PO-10068,2026-03-23,S09,IT & Software,IT-905,27 in monitor,14,289.0,4046.0,C09,T. Brooks,Corporate
+PO-10069,2026-03-24,S07,IT & Software,IT-701,"ERP user license, monthly",56,85.0,4760.0,C07,T. Brooks,Distribution
+PO-10070,2026-03-25,S06,Logistics & Freight,LOG-610,"Drayage, Long Beach port to DC",4,640.0,2560.0,C06,R. Okafor,Plant A
+PO-10071,2026-03-27,S05,Logistics & Freight,LOG-501,"FTL dry van, Chicago to Dallas",8,2350.0,18800.0,C05,M. Chen,Distribution
+PO-10072,2026-03-27,S08,MRO,MRO-801,"Safety glasses, anti-fog",199,4.6,915.4,C08,R. Okafor,Plant B
+PO-10073,2026-03-27,S10,Direct Materials,DM-3005,"Carbide end mill, 1/2 in, 4 flute",78,48.5,3783.0,C10,J. Alvarez,Corporate
+PO-10074,2026-03-27,S13,Professional Services,PS-100,"Strategy workshop, daily rate",3,4200.0,12600.0,,J. Alvarez,Plant A
+PO-10075,2026-03-29,S02,Direct Materials,DM-2001,HDPE resin pellets,4257,1.92,8173.44,C02,A. Haddad,Distribution
+PO-10076,2026-03-29,S14,Professional Services,PS-200,"Audit advisory, hourly",21,275.0,5775.0,,J. Alvarez,Corporate
+PO-10077,2026-03-31,S04,Facilities,FAC-100,"Janitorial service, Plant A (monthly)",1,9400.0,9400.0,C04,R. Okafor,Corporate
+PO-10078,2026-03-31,S04,Facilities,FAC-110,HVAC preventive maintenance visit,1,1250.0,1250.0,C04,J. Alvarez,Distribution
+PO-10079,2026-04-02,S04,Facilities,FAC-110,HVAC preventive maintenance visit,1,1250.0,1250.0,C04,L. Novak,Corporate
+PO-10080,2026-04-02,S08,MRO,MRO-812,"Hard hat, Type I Class E",23,21.75,500.25,C08,L. Novak,Distribution
+PO-10081,2026-04-02,S09,IT & Software,IT-910,Docking station USB-C,18,176.0,3168.0,C09,T. Brooks,Distribution
+PO-10082,2026-04-03,S01,Direct Materials,DM-1031,"Stainless tube 304, 1.5 in",223,23.71,5287.33,C01,T. Brooks,Plant B
+PO-10083,2026-04-03,S01,Direct Materials,DM-1022,"Aluminum bar stock 6061, 2 in",638,14.25,9091.5,C01,A. Haddad,Plant A
+PO-10084,2026-04-05,S03,MRO,MRO-311,Ball bearing 6205-2RS,288,7.85,2260.8,C03,R. Okafor,Plant A
+PO-10085,2026-04-05,S05,Logistics & Freight,LOG-501,"FTL dry van, Chicago to Dallas",2,2350.0,4700.0,C05,J. Alvarez,Plant B
+PO-10086,2026-04-05,S08,MRO,MRO-820,"Hi-vis vest, ANSI Class 2",175,8.9,1557.5,C08,J. Alvarez,Plant A
+PO-10087,2026-04-09,S01,Direct Materials,DM-1022,"Aluminum bar stock 6061, 2 in",864,14.25,12312.0,C01,T. Brooks,Distribution
+PO-10088,2026-04-10,S08,MRO,MRO-801,"Safety glasses, anti-fog",107,4.6,492.2,C08,T. Brooks,Plant B
+PO-10089,2026-04-12,S01,Direct Materials,DM-1010,"Cold-rolled steel sheet, 16 gauge",13,1185.0,15405.0,C01,M. Chen,Distribution
+PO-10090,2026-04-12,S03,MRO,MRO-207,"Hydraulic oil ISO 46, 5 gal",15,70.95,1064.25,C03,M. Chen,Corporate
+PO-10091,2026-04-14,S07,IT & Software,IT-705,"Premium support add-on, monthly",1,1800.0,1800.0,C07,R. Okafor,Plant B
+PO-10092,2026-04-16,S10,Direct Materials,DM-3005,"Carbide end mill, 1/2 in, 4 flute",79,48.5,3831.5,C10,T. Brooks,Distribution
+PO-10093,2026-04-18,S09,IT & Software,IT-910,Docking station USB-C,20,176.0,3520.0,C09,S. Patel,Plant A
+PO-10094,2026-04-19,S05,Logistics & Freight,LOG-510,"LTL pallet, regional",16,145.0,2320.0,C05,T. Brooks,Corporate
+PO-10095,2026-04-20,S03,MRO,MRO-311,Ball bearing 6205-2RS,256,7.85,2009.6,C03,T. Brooks,Plant A
+PO-10096,2026-04-20,S05,Logistics & Freight,LOG-502,"FTL dry van, Chicago to Atlanta",2,2180.0,4360.0,C05,S. Patel,Corporate
+PO-10097,2026-04-21,S06,Logistics & Freight,LOG-601,"Ocean container 40ft, Shanghai to Long Beach",1,3900.0,3900.0,C06,A. Haddad,Plant A
+PO-10098,2026-04-24,S02,Direct Materials,DM-2001,HDPE resin pellets,11663,1.92,22392.96,C02,L. Novak,Corporate
+PO-10099,2026-04-24,S06,Logistics & Freight,LOG-601,"Ocean container 40ft, Shanghai to Long Beach",3,3900.0,11700.0,C06,J. Alvarez,Distribution
+PO-10100,2026-04-26,S02,Direct Materials,DM-2001,HDPE resin pellets,7874,1.92,15118.08,C02,A. Haddad,Corporate
+PO-10101,2026-05-01,S09,IT & Software,IT-905,27 in monitor,7,289.0,2023.0,C09,M. Chen,Plant A
+PO-10102,2026-05-04,S02,Direct Materials,DM-2001,HDPE resin pellets,9398,1.92,18044.16,C02,S. Patel,Distribution
+PO-10103,2026-05-07,S06,Logistics & Freight,LOG-601,"Ocean container 40ft, Shanghai to Long Beach",1,3900.0,3900.0,C06,L. Novak,Plant B
+PO-10104,2026-05-08,S05,Logistics & Freight,LOG-502,"FTL dry van, Chicago to Atlanta",3,2180.0,6540.0,C05,T. Brooks,Plant A
+PO-10105,2026-05-09,S08,MRO,MRO-801,"Safety glasses, anti-fog",344,4.6,1582.4,C08,J. Alvarez,Plant A
+PO-10106,2026-05-09,S14,Professional Services,PS-200,"Audit advisory, hourly",39,275.0,10725.0,,A. Haddad,Distribution
+PO-10107,2026-05-10,S03,MRO,MRO-311,Ball bearing 6205-2RS,204,8.79,1793.16,C03,M. Chen,Distribution
+PO-10108,2026-05-11,S01,Direct Materials,DM-1031,"Stainless tube 304, 1.5 in",631,22.8,14386.8,C01,A. Haddad,Plant A
+PO-10109,2026-05-11,S14,Professional Services,PS-200,"Audit advisory, hourly",39,275.0,10725.0,,R. Okafor,Plant A
+PO-10110,2026-05-12,S12,Logistics & Freight,MC-200,"Expedited LTL pallet, regional",15,210.0,3150.0,,A. Haddad,Distribution
+PO-10111,2026-05-14,S02,Direct Materials,DM-2014,"Polycarbonate sheet 4x8, 1/4 in",49,168.0,8232.0,C02,A. Haddad,Plant A
+PO-10112,2026-05-14,S04,Facilities,FAC-110,HVAC preventive maintenance visit,3,1250.0,3750.0,C04,L. Novak,Plant A
+PO-10113,2026-05-15,S01,Direct Materials,DM-1010,"Cold-rolled steel sheet, 16 gauge",14,1185.0,16590.0,C01,R. Okafor,Plant B
+PO-10114,2026-05-15,S05,Logistics & Freight,LOG-501,"FTL dry van, Chicago to Dallas",3,2350.0,7050.0,C05,A. Haddad,Corporate
+PO-10115,2026-05-16,S08,MRO,MRO-812,"Hard hat, Type I Class E",48,21.75,1044.0,C08,R. Okafor,Plant B
+PO-10116,2026-05-16,S08,MRO,MRO-812,"Hard hat, Type I Class E",24,21.75,522.0,C08,L. Novak,Plant A
+PO-10117,2026-05-16,S09,IT & Software,IT-901,"Business laptop, 14 in, 32GB",11,1340.0,14740.0,C09,T. Brooks,Corporate
+PO-10118,2026-05-17,S05,Logistics & Freight,LOG-510,"LTL pallet, regional",24,145.0,3480.0,C05,J. Alvarez,Plant B
+PO-10119,2026-05-18,S10,Direct Materials,DM-3012,"CNC fixture plate, machined",4,620.0,2480.0,C10,S. Patel,Plant B
+PO-10120,2026-05-21,S01,Direct Materials,DM-1031,"Stainless tube 304, 1.5 in",287,22.8,6543.6,C01,L. Novak,Plant B
+PO-10121,2026-05-22,S03,MRO,MRO-207,"Hydraulic oil ISO 46, 5 gal",26,64.5,1677.0,C03,A. Haddad,Distribution
+PO-10122,2026-05-25,S05,Logistics & Freight,LOG-501,"FTL dry van, Chicago to Dallas",5,2350.0,11750.0,C05,M. Chen,Plant B
+PO-10123,2026-05-27,S01,Direct Materials,DM-1010,"Cold-rolled steel sheet, 16 gauge",8,1185.0,9480.0,C01,A. Haddad,Distribution
+PO-10124,2026-05-27,S09,IT & Software,IT-910,Docking station USB-C,13,176.0,2288.0,C09,L. Novak,Plant A
+PO-10125,2026-05-27,S10,Direct Materials,DM-3012,"CNC fixture plate, machined",9,620.0,5580.0,C10,S. Patel,Plant B
+PO-10126,2026-05-27,S14,Professional Services,PS-200,"Audit advisory, hourly",59,275.0,16225.0,,A. Haddad,Plant B
+PO-10127,2026-05-28,S14,Professional Services,PS-200,"Audit advisory, hourly",53,275.0,14575.0,,L. Novak,Plant B
+PO-10128,2026-05-29,S03,MRO,MRO-114,"Nitrile gloves, box of 100",53,11.4,604.2,C03,T. Brooks,Plant B
+PO-10129,2026-05-29,S04,Facilities,FAC-110,HVAC preventive maintenance visit,3,1250.0,3750.0,C04,M. Chen,Distribution
+PO-10130,2026-05-29,S07,IT & Software,IT-705,"Premium support add-on, monthly",1,1800.0,1800.0,C07,M. Chen,Corporate
+PO-10131,2026-05-31,S03,MRO,MRO-114,"Nitrile gloves, box of 100",152,11.4,1732.8,C03,M. Chen,Distribution
+PO-10132,2026-06-01,S03,MRO,MRO-114,"Nitrile gloves, box of 100",82,11.4,934.8,C03,A. Haddad,Plant B
+PO-10133,2026-06-01,S04,Facilities,FAC-110,HVAC preventive maintenance visit,3,1250.0,3750.0,C04,A. Haddad,Plant B
+PO-10134,2026-06-01,S07,IT & Software,IT-705,"Premium support add-on, monthly",1,1800.0,1800.0,C07,A. Haddad,Distribution
+PO-10135,2026-06-03,S01,Direct Materials,DM-1022,"Aluminum bar stock 6061, 2 in",616,14.25,8778.0,C01,L. Novak,Distribution
+PO-10136,2026-06-04,S08,MRO,MRO-801,"Safety glasses, anti-fog",385,4.6,1771.0,C08,A. Haddad,Corporate
+PO-10137,2026-06-06,S03,MRO,MRO-311,Ball bearing 6205-2RS,239,7.85,1876.15,C03,S. Patel,Corporate
+PO-10138,2026-06-07,S02,Direct Materials,DM-2001,HDPE resin pellets,5558,1.92,10671.36,C02,L. Novak,Corporate
+PO-10139,2026-06-08,S01,Direct Materials,DM-1022,"Aluminum bar stock 6061, 2 in",541,14.25,7709.25,C01,L. Novak,Corporate
+PO-10140,2026-06-09,S01,Direct Materials,DM-1010,"Cold-rolled steel sheet, 16 gauge",10,1185.0,11850.0,C01,M. Chen,Distribution
+PO-10141,2026-06-09,S10,Direct Materials,DM-3005,"Carbide end mill, 1/2 in, 4 flute",69,48.5,3346.5,C10,A. Haddad,Corporate
+PO-10142,2026-06-13,S02,Direct Materials,DM-2001,HDPE resin pellets,9965,1.92,19132.8,C02,R. Okafor,Plant A
+PO-10143,2026-06-16,S05,Logistics & Freight,LOG-510,"LTL pallet, regional",30,145.0,4350.0,C05,M. Chen,Distribution
+PO-10144,2026-06-16,S06,Logistics & Freight,LOG-601,"Ocean container 40ft, Shanghai to Long Beach",3,3900.0,11700.0,C06,J. Alvarez,Plant B
+PO-10145,2026-06-16,S09,IT & Software,IT-901,"Business laptop, 14 in, 32GB",8,1340.0,10720.0,C09,S. Patel,Distribution
+PO-10146,2026-06-17,S11,MRO,QP-311,Ball bearing 6205-2RS (web order),93,10.4,967.2,,M. Chen,Plant B
+PO-10147,2026-06-18,S13,Professional Services,PS-100,"Strategy workshop, daily rate",4,4200.0,16800.0,,R. Okafor,Corporate
+PO-10148,2026-06-19,S01,Direct Materials,DM-1031,"Stainless tube 304, 1.5 in",419,22.8,9553.2,C01,L. Novak,Corporate
+PO-10149,2026-06-19,S09,IT & Software,IT-901,"Business laptop, 14 in, 32GB",9,1340.0,12060.0,C09,T. Brooks,Corporate
+PO-10150,2026-06-20,S05,Logistics & Freight,LOG-502,"FTL dry van, Chicago to Atlanta",6,2180.0,13080.0,C05,S. Patel,Corporate
+PO-10151,2026-06-21,S01,Direct Materials,DM-1010,"Cold-rolled steel sheet, 16 gauge",15,1279.8,19197.0,C01,S. Patel,Corporate
+PO-10152,2026-06-21,S03,MRO,MRO-114,"Nitrile gloves, box of 100",94,11.4,1071.6,C03,A. Haddad,Distribution
+PO-10153,2026-06-24,S05,Logistics & Freight,LOG-501,"FTL dry van, Chicago to Dallas",8,2350.0,18800.0,C05,S. Patel,Corporate
+PO-10154,2026-06-25,S05,Logistics & Freight,LOG-502,"FTL dry van, Chicago to Atlanta",3,2180.0,6540.0,C05,A. Haddad,Distribution
+PO-10155,2026-06-26,S08,MRO,MRO-801,"Safety glasses, anti-fog",388,4.6,1784.8,C08,R. Okafor,Plant A
+PO-10156,2026-06-29,S03,MRO,MRO-311,Ball bearing 6205-2RS,282,7.85,2213.7,C03,A. Haddad,Plant A
+PO-10157,2026-07-03,S03,MRO,MRO-114,"Nitrile gloves, box of 100",160,11.4,1824.0,C03,T. Brooks,Plant B
+PO-10158,2026-07-03,S14,Professional Services,PS-200,"Audit advisory, hourly",46,275.0,12650.0,,R. Okafor,Distribution
+PO-10159,2026-07-04,S09,IT & Software,IT-910,Docking station USB-C,10,176.0,1760.0,C09,R. Okafor,Corporate
+PO-10160,2026-07-05,S03,MRO,MRO-415,V-belt B48,12,18.2,218.4,C03,R. Okafor,Distribution
+PO-10161,2026-07-06,S02,Direct Materials,DM-2014,"Polycarbonate sheet 4x8, 1/4 in",37,168.0,6216.0,C02,S. Patel,Plant B
+PO-10162,2026-07-06,S04,Facilities,FAC-100,"Janitorial service, Plant A (monthly)",1,9400.0,9400.0,C04,J. Alvarez,Distribution
+PO-10163,2026-07-07,S05,Logistics & Freight,LOG-510,"LTL pallet, regional",12,145.0,1740.0,C05,S. Patel,Corporate
+PO-10164,2026-07-07,S07,IT & Software,IT-705,"Premium support add-on, monthly",1,1800.0,1800.0,C07,A. Haddad,Distribution
+PO-10165,2026-07-07,S11,MRO,QP-114,"Nitrile gloves, box of 100 (web order)",53,14.99,794.47,,L. Novak,Distribution
+PO-10166,2026-07-08,S05,Logistics & Freight,LOG-501,"FTL dry van, Chicago to Dallas",5,2350.0,11750.0,C05,T. Brooks,Plant B
+PO-10167,2026-07-11,S05,Logistics & Freight,LOG-502,"FTL dry van, Chicago to Atlanta",6,2180.0,13080.0,C05,J. Alvarez,Plant B
+PO-10168,2026-07-13,S08,MRO,MRO-820,"Hi-vis vest, ANSI Class 2",165,8.9,1468.5,C08,S. Patel,Distribution
+PO-10169,2026-07-14,S01,Direct Materials,DM-1031,"Stainless tube 304, 1.5 in",505,22.8,11514.0,C01,J. Alvarez,Corporate
+PO-10170,2026-07-14,S08,MRO,MRO-820,"Hi-vis vest, ANSI Class 2",128,8.9,1139.2,C08,L. Novak,Plant A
+PO-10171,2026-07-15,S02,Direct Materials,DM-2001,HDPE resin pellets,10619,1.92,20388.48,C02,A. Haddad,Plant A
+PO-10172,2026-07-16,S09,IT & Software,IT-910,Docking station USB-C,14,176.0,2464.0,C09,T. Brooks,Corporate
+PO-10173,2026-07-16,S14,Professional Services,PS-200,"Audit advisory, hourly",40,275.0,11000.0,,J. Alvarez,Plant B
+PO-10174,2026-07-20,S01,Direct Materials,DM-1022,"Aluminum bar stock 6061, 2 in",879,14.25,12525.75,C01,L. Novak,Distribution
+PO-10175,2026-07-22,S14,Professional Services,PS-200,"Audit advisory, hourly",27,275.0,7425.0,,J. Alvarez,Plant A
+PO-10176,2026-07-23,S05,Logistics & Freight,LOG-501,"FTL dry van, Chicago to Dallas",4,2350.0,9400.0,C05,M. Chen,Distribution
+PO-10177,2026-07-23,S15,IT & Software,TM-901,"Business laptop, 14 in, 32GB (retail)",6,1599.0,9594.0,,R. Okafor,Plant A
+PO-10178,2026-07-25,S06,Logistics & Freight,LOG-610,"Drayage, Long Beach port to DC",3,640.0,1920.0,C06,M. Chen,Plant A
+PO-10179,2026-07-27,S03,MRO,MRO-114,"Nitrile gloves, box of 100",87,11.4,991.8,C03,L. Novak,Plant B
+PO-10180,2026-07-27,S10,Direct Materials,DM-3012,"CNC fixture plate, machined",2,620.0,1240.0,C10,R. Okafor,Distribution
+PO-10181,2026-07-28,S01,Direct Materials,DM-1010,"Cold-rolled steel sheet, 16 gauge",9,1185.0,10665.0,C01,M. Chen,Plant B
+PO-10182,2026-07-28,S01,Direct Materials,DM-1031,"Stainless tube 304, 1.5 in",682,22.8,15549.6,C01,J. Alvarez,Plant A
+PO-10183,2026-07-28,S10,Direct Materials,DM-3012,"CNC fixture plate, machined",4,620.0,2480.0,C10,S. Patel,Corporate
+PO-10184,2026-07-31,S06,Logistics & Freight,LOG-601,"Ocean container 40ft, Shanghai to Long Beach",2,3900.0,7800.0,C06,J. Alvarez,Plant A
+PO-10185,2026-08-03,S02,Direct Materials,DM-2001,HDPE resin pellets,11588,1.92,22248.96,C02,A. Haddad,Plant B
+PO-10186,2026-08-03,S04,Facilities,FAC-100,"Janitorial service, Plant A (monthly)",1,9400.0,9400.0,C04,S. Patel,Distribution
+PO-10187,2026-08-04,S09,IT & Software,IT-905,27 in monitor,17,289.0,4913.0,C09,A. Haddad,Plant A
+PO-10188,2026-08-07,S03,MRO,MRO-311,Ball bearing 6205-2RS,224,7.85,1758.4,C03,M. Chen,Plant A
+PO-10189,2026-08-08,S08,MRO,MRO-801,"Safety glasses, anti-fog",188,4.6,864.8,C08,L. Novak,Plant A
+PO-10190,2026-08-10,S01,Direct Materials,DM-1031,"Stainless tube 304, 1.5 in",630,22.8,14364.0,C01,T. Brooks,Plant B
+PO-10191,2026-08-11,S01,Direct Materials,DM-1031,"Stainless tube 304, 1.5 in",257,22.8,5859.6,C01,R. Okafor,Corporate
+PO-10192,2026-08-12,S01,Direct Materials,DM-1010,"Cold-rolled steel sheet, 16 gauge",20,1185.0,23700.0,C01,M. Chen,Plant A
+PO-10193,2026-08-13,S05,Logistics & Freight,LOG-502,"FTL dry van, Chicago to Atlanta",6,2180.0,13080.0,C05,T. Brooks,Plant A
+PO-10194,2026-08-13,S05,Logistics & Freight,LOG-510,"LTL pallet, regional",25,145.0,3625.0,C05,J. Alvarez,Distribution
+PO-10195,2026-08-13,S06,Logistics & Freight,LOG-610,"Drayage, Long Beach port to DC",2,640.0,1280.0,C06,J. Alvarez,Plant B
+PO-10196,2026-08-14,S02,Direct Materials,DM-2001,HDPE resin pellets,7978,1.92,15317.76,C02,S. Patel,Plant B
+PO-10197,2026-08-15,S01,Direct Materials,DM-1010,"Cold-rolled steel sheet, 16 gauge",8,1185.0,9480.0,C01,T. Brooks,Distribution
+PO-10198,2026-08-15,S05,Logistics & Freight,LOG-510,"LTL pallet, regional",23,145.0,3335.0,C05,J. Alvarez,Plant B
+PO-10199,2026-08-15,S09,IT & Software,IT-901,"Business laptop, 14 in, 32GB",4,1340.0,5360.0,C09,R. Okafor,Distribution
+PO-10200,2026-08-15,S14,Professional Services,PS-200,"Audit advisory, hourly",32,275.0,8800.0,,L. Novak,Distribution
+PO-10201,2026-08-18,S10,Direct Materials,DM-3012,"CNC fixture plate, machined",10,620.0,6200.0,C10,S. Patel,Corporate
+PO-10202,2026-08-19,S04,Facilities,FAC-110,HVAC preventive maintenance visit,3,1250.0,3750.0,C04,T. Brooks,Distribution
+PO-10203,2026-08-21,S08,MRO,MRO-801,"Safety glasses, anti-fog",208,4.6,956.8,C08,R. Okafor,Plant A
+PO-10204,2026-08-23,S06,Logistics & Freight,LOG-601,"Ocean container 40ft, Shanghai to Long Beach",2,3900.0,7800.0,C06,A. Haddad,Plant A
+PO-10205,2026-08-25,S01,Direct Materials,DM-1031,"Stainless tube 304, 1.5 in",291,22.8,6634.8,C01,L. Novak,Plant A
+PO-10206,2026-08-25,S03,MRO,MRO-311,Ball bearing 6205-2RS,193,7.85,1515.05,C03,A. Haddad,Corporate
+PO-10207,2026-08-25,S05,Logistics & Freight,LOG-502,"FTL dry van, Chicago to Atlanta",5,2180.0,10900.0,C05,A. Haddad,Corporate
+PO-10208,2026-08-28,S09,IT & Software,IT-910,Docking station USB-C,22,176.0,3872.0,C09,S. Patel,Corporate
+PO-10209,2026-08-28,S10,Direct Materials,DM-3012,"CNC fixture plate, machined",5,620.0,3100.0,C10,T. Brooks,Plant B
+PO-10210,2026-08-29,S07,IT & Software,IT-705,"Premium support add-on, monthly",1,1800.0,1800.0,C07,L. Novak,Plant A
+PO-10211,2026-08-29,S13,Professional Services,PS-100,"Strategy workshop, daily rate",3,4200.0,12600.0,,R. Okafor,Corporate
+PO-10212,2026-08-30,S03,MRO,MRO-207,"Hydraulic oil ISO 46, 5 gal",13,64.5,838.5,C03,A. Haddad,Plant B
+PO-10213,2026-09-01,S01,Direct Materials,DM-1022,"Aluminum bar stock 6061, 2 in",514,14.25,7324.5,C01,R. Okafor,Distribution
+PO-10214,2026-09-01,S03,MRO,MRO-415,V-belt B48,21,18.2,382.2,C03,T. Brooks,Distribution
+PO-10215,2026-09-02,S01,Direct Materials,DM-1010,"Cold-rolled steel sheet, 16 gauge",11,1185.0,13035.0,C01,L. Novak,Plant A
+PO-10216,2026-09-02,S08,MRO,MRO-812,"Hard hat, Type I Class E",34,21.75,739.5,C08,R. Okafor,Distribution
+PO-10217,2026-09-02,S04,Facilities,FAC-100,"Janitorial service, Plant A (monthly)",1,9400.0,9400.0,C04,A. Haddad,Distribution
+PO-10218,2026-09-06,S01,Direct Materials,DM-1031,"Stainless tube 304, 1.5 in",335,22.8,7638.0,C01,L. Novak,Corporate
+PO-10219,2026-09-06,S02,Direct Materials,DM-2001,HDPE resin pellets,7104,1.92,13639.68,C02,J. Alvarez,Corporate
+PO-10220,2026-09-06,S03,MRO,MRO-311,Ball bearing 6205-2RS,251,7.85,1970.35,C03,T. Brooks,Plant A
+PO-10221,2026-09-06,S05,Logistics & Freight,LOG-510,"LTL pallet, regional",36,145.0,5220.0,C05,S. Patel,Plant B
+PO-10222,2026-09-08,S05,Logistics & Freight,LOG-502,"FTL dry van, Chicago to Atlanta",4,2180.0,8720.0,C05,S. Patel,Corporate
+PO-10223,2026-09-08,S07,IT & Software,IT-701,"ERP user license, monthly",53,85.0,4505.0,C07,S. Patel,Plant B
+PO-10224,2026-09-12,S14,Professional Services,PS-200,"Audit advisory, hourly",47,275.0,12925.0,,M. Chen,Plant B
+PO-10225,2026-09-13,S05,Logistics & Freight,LOG-501,"FTL dry van, Chicago to Dallas",4,2350.0,9400.0,C05,T. Brooks,Corporate
+PO-10226,2026-09-14,S02,Direct Materials,DM-2014,"Polycarbonate sheet 4x8, 1/4 in",64,168.0,10752.0,C02,T. Brooks,Corporate
+PO-10227,2026-09-14,S08,MRO,MRO-801,"Safety glasses, anti-fog",330,4.6,1518.0,C08,T. Brooks,Corporate
+PO-10228,2026-09-17,S09,IT & Software,IT-901,"Business laptop, 14 in, 32GB",8,1340.0,10720.0,C09,L. Novak,Corporate
+PO-10229,2026-09-18,S06,Logistics & Freight,LOG-610,"Drayage, Long Beach port to DC",4,640.0,2560.0,C06,T. Brooks,Distribution
+PO-10230,2026-09-24,S01,Direct Materials,DM-1010,"Cold-rolled steel sheet, 16 gauge",15,1185.0,17775.0,C01,A. Haddad,Plant A
+PO-10231,2026-09-24,S10,Direct Materials,DM-3012,"CNC fixture plate, machined",9,620.0,5580.0,C10,T. Brooks,Corporate
+PO-10232,2026-09-25,S01,Direct Materials,DM-1031,"Stainless tube 304, 1.5 in",264,22.8,6019.2,C01,M. Chen,Corporate
+PO-10233,2026-09-26,S03,MRO,MRO-415,V-belt B48,52,18.2,946.4,C03,A. Haddad,Plant B
+PO-10234,2026-09-28,S10,Direct Materials,DM-3005,"Carbide end mill, 1/2 in, 4 flute",69,48.5,3346.5,C10,S. Patel,Plant A
+PO-10235,2026-09-30,S02,Direct Materials,DM-2014,"Polycarbonate sheet 4x8, 1/4 in",70,168.0,11760.0,C02,A. Haddad,Corporate

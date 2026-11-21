@@ -1,0 +1,11 @@
+contract_id,supplier_id,category,start_date,end_date
+C01,S01,Direct Materials,2025-07-01,2027-06-30
+C02,S02,Direct Materials,2025-10-01,2027-09-30
+C03,S03,MRO,2025-01-01,2027-12-31
+C04,S04,Facilities,2024-07-01,2026-06-30
+C05,S05,Logistics & Freight,2025-04-01,2027-03-31
+C06,S06,Logistics & Freight,2025-09-01,2027-08-31
+C07,S07,IT & Software,2025-02-01,2028-01-31
+C08,S08,MRO,2025-06-01,2027-05-31
+C09,S09,IT & Software,2025-11-01,2027-10-31
+C10,S10,Direct Materials,2025-03-01,2027-02-28
