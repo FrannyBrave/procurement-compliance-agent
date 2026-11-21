@@ -42,14 +42,14 @@ def test_loop_runs_tools_and_returns_final_text(tmp_path, monkeypatch):
     monkeypatch.setattr(config, "RUNS_DIR", tmp_path)
     client = FakeClient([
         reply(tool("run_sql", "t1", query="SELECT COUNT(*) FROM invoices", purpose="count"), stop="tool_use"),
-        reply(text("There are 223 invoices.")),
+        reply(text("There are 220 invoices.")),
     ])
     res = run_agent("How many invoices?", client=client)
-    assert res.status == "completed" and res.final_text == "There are 223 invoices."
+    assert res.status == "completed" and res.final_text == "There are 220 invoices."
     assert res.tool_calls == 1
     # The tool result went back in the next request, matched to the tool_use id.
     last = client.requests[1]["messages"][-1]["content"][0]
-    assert last["tool_use_id"] == "t1" and last["is_error"] is False and "223" in last["content"]
+    assert last["tool_use_id"] == "t1" and last["is_error"] is False and "220" in last["content"]
 
 
 def test_tool_budget_stops_tools_and_forces_wrap_up(tmp_path, monkeypatch):
